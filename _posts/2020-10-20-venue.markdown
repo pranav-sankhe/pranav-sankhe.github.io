@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Extension of Human Visual Function based on Brain Plasticity"
+date:   2020-10-20 22:21:59 +00:00
+image: 
+categories: research
+author: 
+authors: "Honda Research Institute, Japan"
+venue: 
+arxiv: 
+slides: 
+code: 
+---
+We proposed a computational model for the cross-modal association of the human visual perception system with the temperature perception system. In addition to that, we designed a perceptual learning framework for the sensory association and designed behavioral experiments to verify the predictions of our model. Unfortunately, because of the pandemic we couldn't conduct experiments but we established theoretical bounds on SNR levels of visual and thermal signal estimation for the learning of the cross-modal association to converge.

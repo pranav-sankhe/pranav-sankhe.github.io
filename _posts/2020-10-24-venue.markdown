@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Computational Underpinnings and Neural Correlates of Self Focus Theory"
+date:   2020-10-24 22:21:59 +00:00
+image: 
+categories: research
+author: "Pranav Sankhe, Ganesh Gowrishankar, Masahiko Haruno"
+authors: "Pranav Sankhe, Ganesh Gowrishankar, Masahiko Haruno"
+venue: "Preparing to Submit to Nature Neuroscience"
+arxiv: 
+slides: 
+code: 
+---
+We investigated the computational mechanisms and neural correlates of self-focus theory for performance deterioration under anxiety using Drift Diffusion Modelling and brain imaging. For a sequential motor task, we found that under anxiety, the reflective processes causes reactivation explicit choice processes reducing the drift rate that results in performance deterioration. In addition to that, we found that the slowing down of participants was accounted for by peripheral processes such as delays in response execution and stimulus encoding. We are preparing to submit our work to {\em Nature Neuroscience}. We are currently studying the impact of threat on model-free and model-based learning mechanisms in the view of self-focus theory.

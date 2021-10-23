@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Cortical Representations of Auditory Perception using Graph Independent Component Analysis on EEG"
+date:   2020-10-23 22:21:59 +00:00
+image: 
+categories: research
+author: "Pranav Sankhe"
+authors: "<strong>Pranav Sankhe</strong>, Ritik Madan"
+venue: "Future Directions of Music Cognition, 2020"
+arxiv: https://pranav-sankhe.github.io/archive-2.pdf
+slides: 
+code: 
+---
+We identified intrinsic cognitive subnetworks corresponding to music perception by decomposing the whole brain graph-network by performing Graph-Independent Component Analysis. Graph-ICA is a variant of ICA that decomposes the measured graph into independent source graphs. We observed that the computed electrodes' location corresponds to the temporal lobes and the Broca's area, which have been found to be involved in auditory perception. Additionally, we found that the weight of auditory subnetworks is positively correlated with the tempo of the stimulus.

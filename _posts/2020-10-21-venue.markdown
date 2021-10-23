@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "An Information Theoretical Approach Towards the Reconstruction of Tempo from EEG Responses"
+date:   2020-10-21 22:21:59 +00:00
+image: 
+categories: research
+author: "Pranav Sankhe"
+authors: "<strong>Pranav Sankhe</strong>, Prasanna Chaporkar"
+venue: "Received <strong> Best Paper Award</strong> at CogMIR 2019"
+arxiv: 
+slides: 
+code: https://pranav-sankhe.github.io/Abstract.pdf
+---
+We proposed an information theoretical model to analyze the reconstruction of the tempo of music stimuli from EEG responses. Our focus was on the question of computationally quantifying the amount of information shared between the response of neuronal populations and the stimulus input they receive. We employed information theory techniques to measure the mutual information, which we then used to establish bounds on tempo change for the reconstruction from EEG response data. Our results established bounds within which the reconstruction of the music stimulus from EEG responses is possible. We presented our work at CogMIR 2019 and received the {\em Best Paper Award}.
