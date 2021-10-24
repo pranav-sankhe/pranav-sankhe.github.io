@@ -6,7 +6,7 @@ image:
 categories: research
 author: "Pranav Sankhe"
 authors: "<strong>Pranav Sankhe</strong>, Ritik Madan"
-venue: "Future Directions of Music Cognition, 2020"
+venue: "Future Directions of Music Cognition, 2021"
 arxiv: https://pranav-sankhe.github.io/archive-2.pdf
 slides: 
 code: 
