@@ -6,7 +6,7 @@ image:
 categories: research
 author: "Pranav Sankhe, Ganesh Gowrishankar, Masahiko Haruno"
 authors: "Pranav Sankhe, Ganesh Gowrishankar, Masahiko Haruno"
-venue: "Preparing to Submit to Nature Neuroscience"
+<!-- venue: "Preparing to Submit to Nature Neuroscience" -->
 arxiv: 
 slides: 
 code: 
